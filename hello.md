@@ -1,1 +1,1 @@
-I am learning how to use git and i am having fun
+I am still earning how to use git and i am having fun
